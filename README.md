@@ -1,16 +1,22 @@
-# Welcome to First Cake! app.
+# **_Welcome to First Cake! app._**
 
 > So, you’ve finally done it. You’ve made a genuine connection with another person, you’ve established a mutual interest, you’ve followed each other on Instagram and accidentally liked each other’s selfies from 2013. What comes next is the tricky part: going on an actual date.
 
-> Now the hard part begins, every idea you will have is rife with potential disaster. Dinner and a movie? The movie could be terrible. A hike? Too sweaty. A picnic? Be serious. What if a hawk swoops down and steals all the food, and then there’s a tornado? I rest my case.
+> Now the hard part begins, every idea you will have is rife with potential disaster. Dinner and a movie? The movie could be terrible. A hike? Too sweaty. A picnic? Be serious. What if a hawk swoops down and steals all the food, and then there’s the possibility of a tornado? I rest my case.
 
 > Instead, keep it casual and use my app to find your next date spot at the click of a button. All I need from you is to ask your new date what they like for dessert! Awesome! Once you have their response, enter the answer by keyword search and my app will do all the heavy lifting for you... Lets be honest you've already done the hard part, use this revolutionary tool to help you find your "First Cake" spot.
 
-## Getting Started
+ - 1.  Search our database using a keyword search allowing you to find the perfect "First Cake" spot   
+ - 2.  Use the awesome "Save that Cake" feature to keep track of your favorite spots. add comments or as I like to call them "First Cake Notes" to write your thoughts about the spot.   
 
-These instructions will get you a copy of the project up and running on your local machine
+## **_Getting Started_**
 
-###Installing
+ >**_"These instructions will get you a copy of the project up and running on your local machine"_** 
+ ---
+
+###**_Installing_**
+
+
 
 First, you'll need to clone down the repo into a directory. Open your terminal and enter
 
@@ -42,65 +48,45 @@ Before we run the application, you must run the command for the React app. In th
 cd ../
 ```
 
-Then enter the following command into the terminal to start using the application
+Afterwords enter the following command into the terminal to start using the application
 
 ```
 npm start
 ```
 
-####Built With
-[<img src="./img/react-library-logo-README.png" height="50">](https://reactjs.org/)    - _*The web framework used*_
-[<img src="./img/json-logo-ReadME..jpg" height="50" style="">](https://www.json.org) - _*Dependency Management*_
-[<img src="../c-35-REACT-Capstone/img/reactstrap-logo-README.md.png" style="margin-top: 10px;" height="50"> ](https://www.npmjs.com/package/reactstrap) <div style="">-_*Component Based styling*_<div>
+---
 
-[css](https://www.w3schools.com/html/html_css.asp) - _*Secondary styling*_
+##_*Built With*_
+
+[<img src="./img/react-library-logo-README.png" style="padding:10px" height="30">](https://reactjs.org/)
+
+[<img src="../c-35-REACT-Capstone/img/reactstrap-logo-README.md.png" style="padding: 10px;" height="50"> ](https://www.npmjs.com/package/reactstrap)
+[<img src="./img/bootstrap-logo-README.jpg" height="100" style="padding:10px">](https://getbootstrap.com/)
+[<img src="./img/figma-logo-README.png" height="50" style="padding:10px">](https://www.figma.com)
+[<img src="./img/css3-logo-README.svg" height="50" style="padding:10px">](https://www.w3schools.com/html/html_css.asp)
+[<img src="./img/json-logo-ReadME..jpg" height="50"  style="padding:10px;" >](https://www.json.org)
 []()
 []()
-[]()
-[]()
 
-Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+---
 
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+###**_Acknowledgments_**
+[<img src="./img/purpleBooth-logo-README.md.png" height="50">](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) README Template Design
 
-#### Authors
+___
+
+
+
+
+### **_Authors_**
 
 - **_Stephen Senft_** - Initial work - FirstCake (_IMPORTANT_!!) **"insert logo here"**
 
-### Users
 
-```json
-{ "id": int, "username": "varChar", "email": "varchar", "password": "varChar" }
-```
-
-### Comments
-
-```json
-{ "id": 1, "userId": 1, "comments": "What's ups?" }
-```
-
-### FavoriteCakes
-
-```json
-{
-  "id": 1,
-  "userId": 2,
-  "image": "varChar",
-  "responseId": int
-}
-```
-
-### Friends **_\_\_\_"Stretch Goal"_**
-
-```json
-{ "id": 1, "userId": 1, "loggedInUserId": 3 }
-```
 
 #### User Stories
 
-- ##### The Problem
+- ###### The Problem
 
 _*A guy asks a girl out and suggests they go somewhere for dessert and coffee.*_
 
