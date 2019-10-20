@@ -6,17 +6,16 @@
 
 > Instead, keep it casual and use my app to find your next date spot at the click of a button. All I need from you is to ask your new date what they like for dessert! Awesome! Once you have their response, enter the answer by keyword search and my app will do all the heavy lifting for you... Lets be honest you've already done the hard part, use this revolutionary tool to help you find your "First Cake" spot.
 
- - 1.  Search our database using a keyword search allowing you to find the perfect "First Cake" spot   
- - 2.  Use the awesome "Save that Cake" feature to keep track of your favorite spots. add comments or as I like to call them "First Cake Notes" to write your thoughts about the spot.   
+- 1.  Search our database using a keyword search allowing you to find the perfect "First Cake" spot
+- 2.  Use the awesome "Save that Cake" feature to keep track of your favorite spots. add comments or as I like to call them "First Cake Notes" to write your thoughts about the spot.
 
 ## **_Getting Started_**
 
- >**_"These instructions will get you a copy of the project up and running on your local machine"_** 
- ---
+> **_"These instructions will get you a copy of the project up and running on your local machine"_**
+
+---
 
 ###**_Installing_**
-
-
 
 First, you'll need to clone down the repo into a directory. Open your terminal and enter
 
@@ -54,6 +53,9 @@ Afterwords enter the following command into the terminal to start using the appl
 npm start
 ```
 
+**_ERD_**
+[<img src="./img/clickME-gif-README.md.png" style="padding:10px; margin-left:20%;" height="50">](C:/Users/Stephen/Downloads/Untitled.pdf)
+
 ---
 
 ##_*Built With*_
@@ -65,7 +67,7 @@ npm start
 [<img src="./img/figma-logo-README.png" height="50" style="padding:10px">](https://www.figma.com)
 [<img src="./img/css3-logo-README.svg" height="50" style="padding:10px">](https://www.w3schools.com/html/html_css.asp)
 [<img src="./img/json-logo-ReadME..jpg" height="50"  style="padding:10px;" >](https://www.json.org)
-[]()
+[<img src="./img/dbDiagram-logos-README.md.jpg" style="padding:10px" height="40">](https://dbdiagram.io/home)
 []()
 
 ---
@@ -73,16 +75,11 @@ npm start
 ###**_Acknowledgments_**
 [<img src="./img/purpleBooth-logo-README.md.png" height="50">](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) README Template Design
 
-___
-
-
-
+---
 
 ### **_Authors_**
 
 - **_Stephen Senft_** - Initial work - FirstCake (_IMPORTANT_!!) **"insert logo here"**
-
-
 
 #### User Stories
 
