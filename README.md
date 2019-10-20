@@ -29,6 +29,12 @@ After that, open up your editor. You're going to need to do the following: You n
 cd c35-React-Capstone-First-Cake-
 ```
 
+Next you will need to install node-modules. Run:
+
+```
+npm install
+```
+
 Since we will be using some pre-populated data at the time, database.json has been set up for you, go to your terminal, enter the command
 
 ```
@@ -54,33 +60,64 @@ npm start
 ```
 
 **_ERD_**
-[<img src="./img/clickME-gif-README.md.png" style="padding:10px; margin-left:20%;" height="50">](C:/Users/Stephen/Downloads/Untitled.pdf)
+
+[<img src="./img/clickME-gif-README.md.png" style="padding:10px; margin-left:20%; border-radius: 15px 50px; border:solid; color:Tomato; background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);background-color: rgba(555, 0, 0, 0.3); width: 150px; box-shadow: 0 10px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" height="120">](C:/Users/Stephen/Downloads/Untitled.pdf)
 
 ---
 
-##_*Built With*_
+##_*Technologies Used*_
 
-[<img src="./img/react-library-logo-README.png" style="padding:10px" height="30">](https://reactjs.org/)
+<!-- <p style="border-style: outset; border-radius:150%;width:24%;" >-clickable links-</p>  -->
 
-[<img src="../c-35-REACT-Capstone/img/reactstrap-logo-README.md.png" style="padding: 10px;" height="50"> ](https://www.npmjs.com/package/reactstrap)
-[<img src="./img/bootstrap-logo-README.jpg" height="100" style="padding:10px">](https://getbootstrap.com/)
-[<img src="./img/figma-logo-README.png" height="50" style="padding:10px">](https://www.figma.com)
-[<img src="./img/css3-logo-README.svg" height="50" style="padding:10px">](https://www.w3schools.com/html/html_css.asp)
-[<img src="./img/json-logo-ReadME..jpg" height="50"  style="padding:10px;" >](https://www.json.org)
-[<img src="./img/dbDiagram-logos-README.md.jpg" style="padding:10px" height="40">](https://dbdiagram.io/home)
-[]()
+<img src="./img/trackpad-logo-README.md.jpg" style=" padding:% ;border-radius:500%; border:solid;color: tomato">
+
+## <h4 style="margin-left: 5%">_*clickable links*_ _below_</h4>
+
+<!-- <img src="./img\arrow-logo-README.me.png" style="height:5%; margin-left: 6.5%;  margin-bottom: 2%"> -->
+
+<div style="border:solid;color:tomato; border-radius:225%; background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);background-color: rgba(555, 0, 0, 0.3); width: 150px; box-shadow: 0 10px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  ">
+
+[<img src="./img/react-library-logo-README.png" style=" border-radius:230%; border: solid; color: tomato; hover:text-decoration: underline; padding:10px; opacity: 0.5; filter: alpha(opacity=50); " height="50">](https://reactjs.org/)
+
+[<img src="../c-35-REACT-Capstone/img/reactstrap-logo-README.md.png" style=" border-radius:200%; border: solid; color: tomato;padding: 10px;" height="50"> ](https://www.npmjs.com/package/reactstrap)
+[<img src="./img/bootstrap-logo-README.jpg" height="100" style="border: solid; color: tomato;border-radius:545%;padding:10px">](https://getbootstrap.com/)
+[<img src="./img/figma-logo-README.png" height="50" style="border: solid; color: tomato;border-radius:545%;padding:10px">](https://www.figma.com)
+[<img src="./img/css3-logo-README.svg" height="50" style="border: solid; color: tomato;border-radius:545%;padding:10px">](https://www.w3schools.com/html/html_css.asp)
+[<img src="./img/json-logo-ReadME..jpg" height="50"  style="border: solid; color: tomato;border-radius:545%;padding:10px;" >](https://www.json.org)
+[<img src="./img/dbDiagram-logos-README.md.jpg" style="border: solid; color: tomato;border-radius:545%;padding:10px" height="40">](https://dbdiagram.io/home)
+[<img src="./img/fireBase-logo-README.md.png" width="55%" style=" border-radius:545%;padding: 10Px; border: solid; color:tomato;"> ](https://firebase.google.com/)
+[<img src="./img/zomato-logo-README.md.png" style="border: solid; color: tomato;border-radius:545%;padding:5%; margin-left:20%; ">](https://developers.zomato.com/api)
+
+## </div>
 
 ---
 
 ###**_Acknowledgments_**
-[<img src="./img/purpleBooth-logo-README.md.png" height="50">](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) README Template Design
+[<img src="./img/purpleBooth-logo-README.md.png" height="50">](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - README Template Design
 
+- [Brenda Long](https://github.com/brendalong) -  Teaching me so many wonderful things about UI UX
+- [Mo Silvera]() -
+- [Madi Pepper]() -
 ---
+
 
 ### **_Authors_**
 
-- **_Stephen Senft_** - Initial work - FirstCake (_IMPORTANT_!!) **"insert logo here"**
+[- **_Stephen Senft_**]() - Initial work - FirstCake (_IMPORTANT_!!) **"insert logo here"**
 
+#### **_Contact Info_**
+<!-- - **_CellPhone:_** **_(615)-456-8619_** -->
+- **_Email:_** **_stephensenft21@gmail.com_**
+ [<img src="./img/github-Logo-README.md.png" style="border-radius:50%; height:60px; padding:3%; margin-bottom:8px;">](https://github.com/stephensenft21)
+ [<img src="./img/facebook-logo-README.md.png" style="border-radius:50%;margin-left:10%; margin-bottom: 15px; height:60px;">](https://www.facebook.com/stephen.senft.3)
+ [<img src="./img/instagram-logo-README.md.jpg" style="margin-bottom:15px;border-radius:50%;margin-left:10%; height:60px;">](https://www.instagram.com/)
+ [<img src="./img/twitter-logo-README.md.jpg" style="margin-bottom:25px;border-radius:50%; margin-left:10%;height:60px;">](https://twitter.com/home)
+
+</div>
+
+---
 #### User Stories
 
 - ###### The Problem
@@ -89,6 +126,8 @@ _*A guy asks a girl out and suggests they go somewhere for dessert and coffee.*_
 
 \*_She mentions that she loves chocolate cake.
 He puts in a google search for places that serve chocolate cake.. He can't find any reliable results without a lot of research. It takes a decent bit of time and he still can't find a good place to go. Since He is a student of Nashville Software School the guy has learned to be a problem solver and navigate google. Once of his search results ends up being a local favorite and he decides to go there. He picks up some TO-GO dessert. They have a great time and the rest is history...._\*\*
+
+- ##### The Solution
 
 _*The next day He thinks to himself. I wish I had an app to find local dessert spots in the surrounding area that gave the user description, location, and user rating.*_
 
