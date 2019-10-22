@@ -70,9 +70,8 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
 
 <!-- <p style="border-style: outset; border-radius:150%;width:24%;" >-clickable links-</p>  -->
 
-<img src="./img/trackpad-logo-README.md.jpg" style=" padding:% ;border-radius:500%; border:solid;color: tomato">
 
-## <h4 style="margin-left: 5%">_*clickable links*_ _below_</h4>
+
 
 <!-- <img src="./img\arrow-logo-README.me.png" style="height:5%; margin-left: 6.5%;  margin-bottom: 2%"> -->
 
@@ -109,11 +108,8 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
 
 #### **_Contact Info_**
 <!-- - **_CellPhone:_** **_(615)-456-8619_** -->
-- **_Email:_** **_stephensenft21@gmail.com_**
- [<img src="./img/github-Logo-README.md.png" style="border-radius:50%; height:60px; padding:3%; margin-bottom:8px;">](https://github.com/stephensenft21)
- [<img src="./img/facebook-logo-README.md.png" style="border-radius:50%;margin-left:10%; margin-bottom: 15px; height:60px;">](https://www.facebook.com/stephen.senft.3)
- [<img src="./img/instagram-logo-README.md.jpg" style="margin-bottom:15px;border-radius:50%;margin-left:10%; height:60px;">](https://www.instagram.com/)
- [<img src="./img/twitter-logo-README.md.jpg" style="margin-bottom:25px;border-radius:50%; margin-left:10%;height:60px;">](https://twitter.com/home)
+ **_Email:_** **_stephensenft21@gmail.com_**
+ [<img src="./img/github-Logo-README.md.jpg" style=" height:56px; padding:3%;">](https://github.com/stephensenft21)[<img src="./img/facebook-logo-README.md.png" style="border-radius:50%; margin-bottom: 15px; height:60px;">](https://www.facebook.com/stephen.senft.3)[<img src="./img/instagram-logo-README.md.jpg" style="margin-bottom:15px;border-radius:50%; height:60px;">](https://www.instagram.com/)[<img src="./img/twitter-logo-README.md.jpg" style="margin-bottom:14px;border-radius:50%; height:60px;">](https://twitter.com/home)
 
 </div>
 
