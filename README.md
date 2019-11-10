@@ -1,12 +1,12 @@
 # **_Welcome to First Cake! app._**
 
-> So, you’ve finally done it. You’ve made a genuine connection with another person, you’ve established a mutual interest, you’ve followed each other on Instagram and accidentally liked each other’s selfies from 2013. What comes next is the tricky part: going on an actual date.
+> So, you’ve finally done it. You’ve made a genuine connection with another person, established a mutual interest, followed each other on Instagram, and accidentally liked each other’s selfies from 2013. What comes next is the tricky part: going on an actual date.
 
-> Now the hard part begins, every idea you will have is rife with potential disaster. Dinner and a movie? The movie could be terrible. A hike? Too sweaty. A picnic? Be serious. What if a hawk swoops down and steals all the food, and then there’s the possibility of a tornado? I rest my case.
+> Now the hard part begins, every idea you will have is riddled with potential disaster. Dinner and a movie? The movie could be terrible. A hike? Too sweaty. A picnic? Be serious. What if a hawk swoops down and steals all the food, and then there’s the possibility of a tornado? I rest my case.
 
-> Instead, keep it casual and use my app to find your next date spot at the click of a button. All I need from you is to ask your new date what they like for dessert! Awesome! Once you have their response, enter the answer by keyword search and my app will do all the heavy lifting for you... Lets be honest you've already done the hard part, use this revolutionary tool to help you find your "First Cake" spot.
+> Instead, keep it casual and use my app to find your next date spot at the click of a button. All I need from you is to ask your new date what they like for dessert! Awesome! Once you have their response, browse options through ten popular categories. Use the clickable buttons to search Zomato's database and my app will do all the heavy lifting for you... Lets be honest, you've already done the hard part. Use this revolutionary tool to help you find your next "First Cake" spot.
 
-- 1.  Search our database using a keyword search allowing you to find the perfect "First Cake" spot
+- 1.  Search our database using a  allowing you to find the perfect "First Cake" spot
 - 2.  Use the awesome "Save that Cake" feature to keep track of your favorite spots. add comments or as I like to call them "First Cake Notes" to write your thoughts about the spot.
 
 ## **_Getting Started_**
