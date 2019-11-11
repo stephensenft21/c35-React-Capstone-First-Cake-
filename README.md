@@ -93,7 +93,7 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
 
 ---
 
-###**_Acknowledgments_**
+##**_Acknowledgments_**
 [<img src="./img/purpleBooth-logo-README.md.png" height="50">](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - README Template Design
 
 - [Brenda Long](https://github.com/brendalong) -  Teaching me so many wonderful things about UI UX
